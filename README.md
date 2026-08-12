@@ -1,7 +1,6 @@
 # Corporate-Sales-Performance-Analytics
 Interactive Power BI dashboard for analyzing corporate sales performance, distribution KPIs, trends, and product performance.
 Corporate Sales & Performance Analytics Tracker
-
  Author
 Tayyaba Awan
 Computer Science Student
