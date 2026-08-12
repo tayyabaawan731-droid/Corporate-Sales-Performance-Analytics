@@ -71,19 +71,6 @@ Product Slicer	Analyze individual products
 Sales Trend	Identify sales trends over time
 Product Chart	Compare product performance
 Matrix Table	Detailed regional and departmental analysis
-📷 Dashboard Preview
-
-Add your dashboard screenshot inside the screenshots folder and use:
-
-![Corporate Sales & Performance Analytics Dashboard](screenshots/dashboard.png)
-📁 Project Structure
-Corporate-Sales-Performance-Analytics/
-│
-├── Corporate_Sales_Performance_Analytics.pbix
-├── README.md
-│
-└── screenshots/
-    └── dashboard.png
 🚀 How to Use
 Download the .pbix Power BI file from this repository.
 Open it using Microsoft Power BI Desktop.
